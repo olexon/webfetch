@@ -1,6 +1,6 @@
 @font-face {
-    font-family: Tahoma; /* Just in case lol */
-    src: url(resources/tahoma.ttf);
+    font-family: Tahoma;
+    src: url("resources/tahoma.ttf");
 }
 
 body {
