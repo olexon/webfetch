@@ -1,0 +1,52 @@
+body {
+    background-color: #131313;
+}
+
+h1 {
+    color: #c9c9c9;
+    font-family: Tahoma;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+ins {
+    text-decoration: none;
+}
+
+.square {
+    display: inline-flex;
+    height: 20px;
+    width: 25px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.fetchoutput {
+    color: #c9c9c9;
+    /*border: solid red;*/
+    font-size: larger;
+    font-family: Tahoma;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    line-height: 25px;
+}
+
+.icon {
+    float: top;
+    margin-top: 15px;
+}
+
+.footer {
+    color: grey;
+    font-family: Tahoma;
+    font-size: small;
+    text-align: center;
+    position: fixed;
+    left: 50%;
+    bottom: 0;
+    transform: translate(-50%, -50%);
+    margin: 0;
+}
